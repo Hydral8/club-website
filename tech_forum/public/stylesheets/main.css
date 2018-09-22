@@ -1,0 +1,85 @@
+html, body {
+	height: 100%;
+}
+
+#auth_btn {
+	display: block;
+	margin: 0 auto;
+}
+
+#no_acc_btn {
+	display: block;
+	margin: 20px auto;
+	width: 60%;
+	margin-bottom: 0px;
+}
+
+#back_to_login_btn {
+	display: block;
+	margin: 20px auto;
+	width: 30%;
+	margin-bottom: 0px;
+}
+
+#top-buffer {
+	margin-top: 30px;
+}
+
+#bottom-sticky {
+	margin-top: 20px;
+	position: sticky;
+	bottom: 0;
+	width: 100%;
+}
+
+#post_btn {
+	width: 8%;
+	float: right;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#post_input {
+	width: 100%;
+	display: block;
+	border-radius: 15px;
+	height: 100px;
+	text-indent: 15px;
+	padding: 8px;
+	border-width: 3px;
+	border-color: lightsteelblue;
+	outline: none;
+}
+
+#post_card {
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+#form_title {
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+#form_btn {
+	display: block;
+	width: 20%;
+	margin: 0 auto;
+}
+
+#basicForm {
+	width: 50%;
+	margin: 30px auto;
+}
+
+#deleteForm {
+	display: inline;
+}
+
+#showBtn {
+	width: 100px;
+}
+
+#showDeleteForm {
+	display: inline;
+}
